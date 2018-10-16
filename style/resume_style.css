@@ -5,16 +5,17 @@
 header{
 	background-color: darkgrey;
 	margin: auto;
+	text-align: center;
 }
 body{
 	background-color: white;
 	margin: 0;
 }
-.container{
-
+.title{
+	text-align: center;
 }
 .page{
-	background-color: lightblue;
+	background-color: lightgrey;
 	width: 70%;
 	max-width: 960px;
 	height: auto;
@@ -25,9 +26,7 @@ section{
 	padding-left: 5px;
 	padding-bottom: 2%;
 }
-.padding{
-	padding-top: 1%;
-}
 .exp ul{
 	list-style: none;
+	padding-bottom: 2%;
 }

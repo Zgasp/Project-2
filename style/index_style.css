@@ -5,6 +5,7 @@
 header{
 	background-color: darkgrey;
 	margin: auto;
+	text-align: center;
 }
 body{
 	background-color: white;
@@ -14,10 +15,12 @@ body{
 
 }
 .page{
-	background-color: lightblue;
+	background-color: lightgrey;
 	width: 70%;
 	max-width: 960px;
 	height: auto;
 	text-align: center;
 	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
