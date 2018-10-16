@@ -1,3 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: darkgrey;
+	margin: auto;
+}
 body{
+	background-color: white;
+	margin: 0;
+}
+.container{
+
+}
+.page{
 	background-color: lightblue;
+	width: 70%;
+	max-width: 960px;
+	height: auto;
+	text-align: center;
+	margin: auto;
 }
