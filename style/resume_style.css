@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: darkgrey;
+	margin: auto;
+}
+body{
+	background-color: white;
+	margin: 0;
+}
+.container{
+
+}
+.page{
+	background-color: lightblue;
+	width: 70%;
+	max-width: 960px;
+	height: auto;
+	text-align: left;
+	margin: auto;
+}
+section{
+	padding-left: 5px;
+	padding-bottom: 2%;
+}
+.padding{
+	padding-top: 1%;
+}
+.exp ul{
+	list-style: none;
+}
