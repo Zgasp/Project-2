@@ -24,6 +24,8 @@ body{
 .page{
 	background-color: #ce9961;
 	color: #442509;
+	font-size: 40px;
+
 	width: 40%;
 	height: auto;
 	text-align: center;
@@ -34,9 +36,10 @@ body{
 }
 .page img{
 	width: 90%;
-	margin: 5% 5% 10% 5%;
+	margin: 5% 5% 0% 5%;
 }
 .page p{
+	padding-top: 10%;
 	padding-bottom: 10%;
 }
 .page iframe{
