@@ -1,11 +1,23 @@
+/*
+   COLORS:
+   Vanilla          #fffdeb
+   Chocolate        #512c0b
+   Milk Chocolate   #ce9961
+   Pink             #ff9ec7
+   Light Pink       #fdd9e9
+*/
 .nav {
+    font-family: 'Mali', cursive;
+
 	width: 100%;
 	list-style-type: none;
     margin: 0;
     padding: 0;
     border: 1px 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #512c0b;
+    color:#fffdeb;
+
     text-align: center;
 }
 
@@ -28,5 +40,14 @@
 
 .nav li a:hover {
 	display: inline-block;
-    background-color: #111;
+    color: #ff9ec7;
+}
+.title {
+    font-family: 'Mali', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Mali', cursive;
+    text-align: center;
 }

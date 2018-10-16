@@ -1,21 +1,32 @@
+/*
+   COLORS:
+   Vanilla 			#fffdeb
+   Chocolate 		#512c0b
+   Milk Chocolate	#ce9961
+   Pink 			#ff9ec7
+   Light Pink 		#fdd9e9
+*/
 *{
 	margin: 0;
 	padding: 0;
+	font-family: 'Mali', cursive;
 }
 header{
-	background-color: darkgrey;
+	background-color: #fffdeb;
 	margin: auto;
 	text-align: center;
+	color:#512c0b;
 }
 body{
-	background-color: white;
+	background-color: #fffdeb;
+	color: #442509;
 	margin: 0;
 }
 .container{
 
 }
 .page{
-	background-color: lightgrey;
+	background-color: #ce9961;
 	width: 70%;
 	max-width: 960px;
 	height: auto;
@@ -23,5 +34,5 @@ body{
 	margin: auto;
 	margin-top: 10px;
 	margin-bottom: 20px;
-    box-shadow: 10px 10px #3b1b72;
+    box-shadow: 10px 10px #ff9ec7;
 }
