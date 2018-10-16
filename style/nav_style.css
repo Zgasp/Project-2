@@ -1,4 +1,6 @@
 .nav {
+    font-family: 'Mali', cursive;
+
 	width: 100%;
 	list-style-type: none;
     margin: 0;
@@ -29,4 +31,13 @@
 .nav li a:hover {
 	display: inline-block;
     background-color: #111;
+}
+.title {
+    font-family: 'Mali', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Mali', cursive;
+    text-align: center;
 }
