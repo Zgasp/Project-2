@@ -1,6 +1,6 @@
 /*
    COLORS:
-   Vanilla 			#fffdeb
+   Vanilla 			#fffbcc
    Chocolate 		#512c0b
    Milk Chocolate	#ce9961
    Pink 			#ff9ec7
@@ -12,13 +12,13 @@
 	font-family: 'Mali', cursive;
 }
 header{
-	background-color: #fffdeb;
+	background-color: #fffbcc;
 	margin: auto;
 	text-align: center;
 	color:#512c0b;
 }
 body{
-	background-color: #fffdeb;
+	background-color: #fffbcc;
 	margin: 0;
 }
 .blurb{

@@ -1,6 +1,6 @@
 /*
    COLORS:
-   Vanilla          #fffdeb
+   Vanilla          #fffbcc
    Chocolate        #512c0b
    Milk Chocolate   #ce9961
    Pink             #ff9ec7
@@ -17,7 +17,7 @@
     border: 1px 0;
     overflow: hidden;
     background-color: #512c0b;
-    color:#fffdeb;
+    color:#fffbcc;
 
     text-align: center;
 }
