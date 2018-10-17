@@ -21,6 +21,19 @@ body{
 	background-color: #fffdeb;
 	margin: 0;
 }
+.blurb{
+	background-color: #ce9961;
+	color: #442509;
+	font-size: 40px;
+
+	width: 80%;
+	height: auto;
+	text-align: center;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 30px;
+    box-shadow: 10px 10px #ff9ec7;
+}
 .container{
 	display: flex;
 	flex-flow: row wrap;
