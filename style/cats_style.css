@@ -21,6 +21,11 @@ body{
 	background-color: #fffdeb;
 	margin: 0;
 }
+.container{
+	display: flex;
+	flex-flow: row wrap;
+ 	justify-content: space-around;
+}
 .page{
 	background-color: #ce9961;
 	color: #442509;
