@@ -49,7 +49,7 @@ img{
 
 .nav {
     font-family: 'Mali', cursive;
-    font-size: 20px;
+    font-size: 2.0em;
 
 	width: 100%;
 	list-style-type: none;
@@ -169,3 +169,5 @@ section{
 
 	margin: 5% 5% 0% 5%;
 }
+
+/*----- Media Query -----*/
