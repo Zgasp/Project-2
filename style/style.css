@@ -37,6 +37,8 @@ body{
 	margin-bottom: 20px;
 	padding: 1%;
     box-shadow: 10px 10px #ff9ec7;
+    border-radius: 8px;
+}
 }
 .page p{
 	text-align: left;
@@ -49,7 +51,11 @@ img{
 
 .nav {
     font-family: 'Mali', cursive;
+<<<<<<< HEAD
     font-size: 2.0em;
+=======
+    font-size: 1.25rem;
+>>>>>>> 84f50e1934bad1893c2a1b4ca3aabeb1f998b4cc
 
 	width: 100%;
 	list-style-type: none;
@@ -99,14 +105,16 @@ h1 {
 .resume{
 	background-color: #ce9961;
 	color: #442509;
-	width: 70%;
-	max-width: 960px;
+	width: 960px;
 	height: auto;
 	text-align: left;
 	margin: auto;
 	margin-top: 10px;
 	margin-bottom: 30px;
     box-shadow: 10px 10px #ff9ec7;
+    border-radius: 2px;
+    padding-left: 5px;
+}
 }
 section{
 	padding-left: 5px;
@@ -137,6 +145,8 @@ section{
 	margin-top: 10px;
 	margin-bottom: 30px;
     box-shadow: 10px 10px #ff9ec7;
+    border-radius: 8px;
+}
 }
 .container{
 	display: flex;
@@ -155,6 +165,7 @@ section{
 	margin-top: 10px;
 	margin-bottom: 30px;
     box-shadow: 10px 10px #ff9ec7;
+    border-radius: 8px;
 }
 .box img{
 	width: 90%;
@@ -170,8 +181,20 @@ section{
 	margin: 5% 5% 0% 5%;
 }
 
+<<<<<<< HEAD
 /*----- Media Query -----*/
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .nav li a {diplay: block;}
+=======
+/*mobile phone*/
+@media (max-width: 600px) {
+	.nav{
+		font-size: 2.25rem;
+	}
+	.page{
+		width: 90%;
+	}
+}
+>>>>>>> 84f50e1934bad1893c2a1b4ca3aabeb1f998b4cc
