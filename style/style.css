@@ -22,7 +22,7 @@ body{
 	color: #442509;
 	margin: 0;
 }
-.container{
+.container{	
 	text-align: center;
 }
 .page{
@@ -42,12 +42,13 @@ body{
 .page p{
 	text-align: left;
 }
-img{
-	padding-top: 2%;
+.page a{
+	float: left;
+	padding-top: 1%;
+	padding-right: 2%;
 }
 
 /*----- NAVIGATION BAR -----*/ 
-
 .nav {
     font-family: 'Mali', cursive;
     font-size: 2.0em;
