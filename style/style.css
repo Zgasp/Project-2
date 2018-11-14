@@ -6,11 +6,6 @@
    Pink 			#ff9ec7
    Light Pink 		#fdd9e9
 */
-*{
-	margin: 0;
-	padding: 0;
-	font-family: 'Mali', cursive;
-}
 header{
 	background-color: #fffbcc;
 	margin: auto;
@@ -23,7 +18,7 @@ body{
 	margin: 0;
 }
 .container{	
-	text-align: center;
+	/* text-align: center; */
 }
 .page{
 	display: inline-block;
